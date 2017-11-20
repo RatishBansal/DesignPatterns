@@ -1,4 +1,4 @@
-package com.ratish.structural;
+package com.ratish.structural.adapter;
 
 public class Adapter {
 }

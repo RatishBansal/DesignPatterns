@@ -1,4 +1,4 @@
-package com.ratish.behavioural;
+package com.ratish.behavioural.observer;
 
 public class Observer {
 
